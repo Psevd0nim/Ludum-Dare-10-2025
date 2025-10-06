@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10e1f357b48c7c84f82087ca84296814, type: 3}
+  m_Name: View Config
+  m_EditorClassIdentifier: 
+  roomViewList:
+  - type: 1
+    sprite: {fileID: 21300000, guid: 67689ed918841bf42b819dcd592b49c4, type: 3}
+  - type: 2
+    sprite: {fileID: 21300000, guid: 5708c0d545616a943b37ee2c1255d65a, type: 3}
+  - type: 3
+    sprite: {fileID: 21300000, guid: bd8ff6ee5a884d24db699f3b4914f718, type: 3}
+  reliqSpriteList:
+  - sprite: {fileID: 21300000, guid: d4874e21c0ed4374fa3de1e854ad51d4, type: 3}
+  - sprite: {fileID: 21300000, guid: 4ec0541cafbad244ea97f7ee3d7112ba, type: 3}
+  - sprite: {fileID: 21300000, guid: c2a4544a6919b0645a97f3e6049f32ab, type: 3}
+  - sprite: {fileID: 21300000, guid: d982c7212b904aa4c9214dfce48ae5a8, type: 3}
+  - sprite: {fileID: 21300000, guid: 4e143a001bd4ca643b6cd982db562200, type: 3}
+  - sprite: {fileID: 21300000, guid: 514e975255dcf474693dc950890e3141, type: 3}
+  - sprite: {fileID: 21300000, guid: 47fa2e65f93b9334fb9b81ba46ea4d99, type: 3}
+  - sprite: {fileID: 21300000, guid: 08beb2d1cac1a7149a0803a452937678, type: 3}
