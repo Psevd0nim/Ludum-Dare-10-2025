@@ -11,6 +11,11 @@ public class GameManager : MonoBehaviour
     [SerializeField] private FightManager _fightManager;
     [SerializeField] private RoomManager _roomManager;
 
+    private void Awake()
+    {
+        Application.targetFrameRate = 144;
+    }
+
     private void Start()
     {
         InitGameLocator();
